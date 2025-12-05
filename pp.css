@@ -1,0 +1,154 @@
+
+body{
+    background-color: rgb(242, 255, 129);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(22, 134, 255);
+    line-height: 1.7;
+    padding-bottom: 50px;
+    align-items: center;
+}
+
+header{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px 10px;
+
+}
+
+header h1{
+font-size: 2rem;
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 15px;
+box-shadow: 0 3px 8px rgb(0, 0, 0,0.4);
+}
+
+#brasil2{
+
+    display: flex; 
+    justify-content: center;
+    gap:20px ;
+    padding: 15px;
+    background: #ffffff;
+    flex-wrap: wrap;
+
+}
+
+#brasil2 a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    background: #ffffff;
+    padding: 10px  18px;
+    border-radius: 8px;
+    font-weight: 600;
+    transition: 0.3s;
+
+}
+
+#brasil2 a:hover{
+background: #3d98e8;
+transform: translateY(-3px);
+box-shadow: #3cb1ff;
+}
+
+.imagem2{
+    width: 900px;
+    border-radius: 10px;
+    margin-bottom:20px
+    
+}
+
+.conteudo1{
+    width: 85%;
+max-width: 900px;
+margin: 40px auto;
+background: #ffffff;
+padding: 25px;
+border-radius: 10px;
+box-shadow: #fffefe;
+color: black;
+}
+
+.conteudo2{
+    width: 85%;
+max-width: 900px;
+margin: 40px auto;
+background: #ffffff;
+padding: 25px;
+border-radius: 10px;
+box-shadow: #fffefe;
+color: black;
+}
+
+.conteudo3{
+    width: 85%;
+max-width: 900px;
+margin: 40px auto;
+background: #ffffff;
+padding: 25px;
+border-radius: 10px;
+box-shadow: #fffefe;
+color: black;
+}
+
+.conteudo4{
+    width: 85%;
+max-width: 900px;
+margin: 40px auto;
+background: #ffffff;
+padding: 25px;
+border-radius: 10px;
+box-shadow: #fffefe;
+color: black;
+}
+
+.Abaporu{
+    width: 900px;
+    border-radius: 10px;
+    margin-bottom:20px
+}
+
+.parte1{
+     width: 85%;
+max-width: 900px;
+margin: 40px auto;
+background: #ffffff;
+padding: 25px;
+border-radius: 10px;
+box-shadow: #fffefe;
+color: black;
+}
+
+.parte2{
+     width: 85%;
+max-width: 900px;
+margin: 40px auto;
+background: #ffffff;
+padding: 25px;
+border-radius: 10px;
+box-shadow: #fffefe;
+color: black;
+}
+
+.parte3{
+     width: 85%;
+max-width: 900px;
+margin: 40px auto;
+background: #ffffff;
+padding: 25px;
+border-radius: 10px;
+box-shadow: #fffefe;
+color: black;
+}
+
+.parte4{
+     width: 85%;
+max-width: 900px;
+margin: 40px auto;
+background: #ffffff;
+padding: 25px;
+border-radius: 10px;
+box-shadow: #fffefe;
+color: black;
+}
